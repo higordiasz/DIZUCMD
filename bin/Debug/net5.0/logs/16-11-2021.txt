@@ -1,0 +1,4 @@
+DIZUCMD 20:21:43 Erro RodarConta: 'Newtonsoft.Json.Linq.JValue' does not contain a definition for 'IndexOf'
+GNIAPI 20:40:41 Erro RodarConta: The best overloaded method match for 'DIZUCMD.DIZU.Dizu.ConfirmTask(string, string)' has some invalid arguments
+GNIAPI 20:43:33 Erro RodarConta: Cannot implicitly convert type 'DIZUCMD.DIZU.DizuRetorno' to 'bool'
+GNIAPI 21:09:59 Erro RodarConta: Cannot implicitly convert type 'DIZUCMD.DIZU.DizuRetorno' to 'bool'

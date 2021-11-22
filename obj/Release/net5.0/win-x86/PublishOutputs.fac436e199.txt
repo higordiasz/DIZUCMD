@@ -1,0 +1,6 @@
+D:\Arka Sistemas\Arka\Arka\Bot\DIZUCMD.pdb
+D:\Arka Sistemas\Arka\Arka\Bot\clrcompression.dll
+D:\Arka Sistemas\Arka\Arka\Bot\clrjit.dll
+D:\Arka Sistemas\Arka\Arka\Bot\coreclr.dll
+D:\Arka Sistemas\Arka\Arka\Bot\mscordaccore.dll
+D:\Arka Sistemas\Arka\Arka\Bot\DIZUCMD.exe

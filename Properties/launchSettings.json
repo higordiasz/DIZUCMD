@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DIZUCMD": {
+      "commandName": "Project",
+      "commandLineArgs": "29cae7e3579b034d3ead6b8ed9e93e45 testedizu1 true txt"
+    }
+  }
+}
