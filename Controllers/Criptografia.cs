@@ -7,7 +7,7 @@ namespace DIZUCMD.Controllers.Criptografia
 {
     class Criptografia
     {
-        private static Rijndael CriarInstanciaRijndael(string chave = "JFRU37VHRJ29V8RJNRUB38275JVIRU10", string vetorInicializacao = "SLFKRU2847CUDJ29")
+        private static Rijndael CriarInstanciaRijndael(string chave = "", string vetorInicializacao = "")
         {
             if (!(chave != null &&
                   (chave.Length == 16 ||
