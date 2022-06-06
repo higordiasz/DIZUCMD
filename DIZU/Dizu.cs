@@ -12,7 +12,7 @@ namespace DIZUCMD.DIZU
     class Dizu
     {
         private string Token { get; set; }
-        private string UserAgent = "Arka Bot Dizu";
+        private string UserAgent = "";
         private HttpClient Client { get; set; }
         private HttpClientHandler Handler { get; set; }
         private CookieContainer Cookies { get; set; }
